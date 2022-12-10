@@ -2,6 +2,12 @@
 ## This template is made by Team Taranaa. ##
 --------------------------------------------
 
+---------------------------------------------------------------------------------------------------------------------------------
+## TO DO 👇 ====================================================================================================================
+==> You must have to delete the .git folder (If you can't see the folder then just turn on hideen folder from your file manager )
+---------------------------------------------------------------------------------------------------------------------------------
+
+
 
 ## All thanks goes to  Muhamamd Naim babu, Mizanur Rahman, Juwel Hossain, Varada Raj & Mehedi Hasan. ##
 
